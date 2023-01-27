@@ -4,6 +4,8 @@
 
 Clonando o site do Youtube, pude colocar em prática os conceitos de HTML e CSS.
 
+Utilizei o reset css de Eric Meyer para lidar com as inconsistências dos navegadores. Dica @Meira.
+
 ## Tecnologias utilizadas:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) : linguagem de Marcação de Hipertexto
