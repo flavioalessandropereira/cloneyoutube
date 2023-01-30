@@ -3,7 +3,6 @@
   width: 80px;
 }
 
-.search-bnt, .magnify{
-  width: 25px;
-  height: 25px;
+.search-btn img{
+  height: 15px;
 }
