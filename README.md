@@ -2,7 +2,7 @@
 
 > Status: Projeto Em contstrução ⚠️
 
-Clonando o site do Youtube, com intuito em aplicst os conceitos de HTML e CSS.
+Clonando o site do Youtube, com intuito em aplicar os conceitos de HTML e CSS.
 
 Utilizei o reset css de Eric Meyer para lidar com as inconsistências dos navegadores. Dica  Jean C. Meira " @Meira".
 
